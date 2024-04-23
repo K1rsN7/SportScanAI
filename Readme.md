@@ -31,7 +31,28 @@ https://hub.docker.com/repository/docker/dimflix/sport-scan-ai:latest
 - ### Загрузка образа из архива
     `docker load -i sport-scan-ai.tar`
 
-# Лицензия - Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+# Авторы 
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DIMFLIX-OFFICIAL">
+        <img src="https://github.com/DIMFLIX-OFFICIAL.png?size=100" width="100px;" alt=""/><br/>
+        <b>Пронин Дмитрий</b>
+      </a><br/>
+      <sub>Оптимизация кода. Настройка Docker</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/K1rsn7">
+        <img src="https://github.com/K1rsn7.png?size=100" width="100px;" alt=""/><br />
+        <b>Кирилл Сухоруков</b>
+      </a><br />
+      <sub>Обучение модели CatBoost</sub>
+    </td>
+  </tr>
+</table>
+
+# Лицензия
 Полный текст лицензии доступен здесь: [Юридический кодекс CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
 ## Вы можете свободно использовать:
 - Делиться — копировать и распространять материал на любом носителе или в любом формате
