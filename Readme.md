@@ -1,13 +1,14 @@
+<img src="./banner.png">
 <div align="center">
     <h1>SportScanAI</h1>
     <a href="https://github.com/K1rsN7/BusinessLunchGAN/issues">
-        <img src="https://img.shields.io/github/issues/K1rsN7/BusinessLunchGAN?color=4A73DF&labelColor=1C2325&style=for-the-badge" alt="Issues">
+        <img src="https://img.shields.io/github/issues/K1rsN7/BusinessLunchGAN?color=E8E9E9&labelColor=47BDC6&style=for-the-badge" alt="Issues">
     </a>
     <a href="https://github.com/K1rsN7/BusinessLunchGAN/stargazers">
-        <img src="https://img.shields.io/github/stars/K1rsN7/BusinessLunchGAN?color=4A73DF&labelColor=1C2325&style=for-the-badge" alt="Stars">
+        <img src="https://img.shields.io/github/stars/K1rsN7/BusinessLunchGAN?color=E8E9E9&labelColor=47BDC6&style=for-the-badge" alt="Stars">
     </a>
     <a href="./LICENSE">
-        <img src="https://img.shields.io/badge/Licence-CC%20BY--NC%204.0-4A73DF?style=for-the-badge&labelColor=1C2325" alt="Лицензия CC BY-NC 4.0">
+        <img src="https://img.shields.io/badge/Licence-CC%20BY--NC%204.0-E8E9E9?style=for-the-badge&labelColor=47BDC6" alt="Лицензия CC BY-NC 4.0">
     </a>
 </div>
     <p>В мобильном приложении <a href="https://мойфитнес.рф/">МойФитнес</a> проходит много соревнований по шагам и тренировкам.</p>
@@ -76,3 +77,11 @@
         <li>Никаких дополнительных ограничений — Вы не имеете права применять юридические условия или технологические меры, которые юридически ограничивают действия других лиц, разрешенные лицензией.</li>
     </ul>
     <p>Это всего лишь краткая выдержка из основных положений лицензии. Пожалуйста, ознакомьтесь с полным юридическим текстом лицензии для полного понимания ее условий.</p>
+<h2 align="center">История звёзд</h2>
+<a href="https://star-history.com/#K1rsN7/SportScanAI&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=K1rsN7/SportScanAI&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=K1rsN7/SportScanAI&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=K1rsN7/SubManage&type=Date" />
+ </picture>
+</a>
